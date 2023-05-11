@@ -1,0 +1,14 @@
+{
+  "name": "node-security-exercise",
+  "version": "1.0.0",
+  "description": "Project to test different Node.js security practises",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prateek Varma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
